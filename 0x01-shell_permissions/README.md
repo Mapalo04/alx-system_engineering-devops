@@ -12,3 +12,7 @@ The  script 10-mirror_permissions sets the mode the file hello the same as olleh
 The script 11-directories_permissions adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users
 The script 12-directory_permissions creats a directory called my_dir with permissions 751 in the working directory
 The script 13-change_group changes the group owner to school for the file hello
+The script 100-change_owner_and_group changes the owner and group owner to vincent and staff respectively of all the files and directories
+The script 101-symbolic_link_permissions changes the owner and group of the symbolic_link _hello to vincent and staff respectively
+The script 102-if_only changes the owner of the file hello to betty only if belongs to guillaume
+The script 103-Star_Wars plays the StarWars IV episode in the terminal
